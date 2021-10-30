@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwinpillai45
 - 👀 I’m interested in ... Embedded System and Designing
-- 🌱 I’m currently learning ... M4 Arm Programming (STM32)
+- 🌱 I’m currently learning ... M4 Arm Programming (STM32) and FreeRTOS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashwinp45@gmail.com
 
